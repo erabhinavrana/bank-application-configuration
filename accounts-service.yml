@@ -1,9 +1,9 @@
 #Custom Properties
 accounts-service:
   build:
-    version: "1.0.0-SNAPSHOT"
+    version: "1.0.0"
   support-info:
-    message: "Welcome to accounts service related local APIs"
+    message: "Welcome to accounts microservice local APIs"
     contactPersonDetails:
       name: "Abhinav Rana - Developer"
       email: "rana@learn2code.com"
