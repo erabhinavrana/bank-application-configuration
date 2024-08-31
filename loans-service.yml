@@ -1,0 +1,12 @@
+#Custom Properties
+loans-service:
+  build:
+    version: "1.0.0-SNAPSHOT"
+  support-info:
+    message: "Welcome to Loans account related local APIs"
+    contactPersonDetails:
+      name: "Sharman Homes  - Developer"
+      email: "homes@learn2code.com"
+    contactNumber:
+      - (222) 222-222
+      - (222) 222-223

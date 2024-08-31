@@ -1,0 +1,13 @@
+#Custom Properties
+accounts-service:
+  build:
+    version: "1.0.0-STG"
+  support-info:
+    message: "Welcome to accounts service related Staging environment APIs"
+    contactPersonDetails:
+      name: "Learn2Code STG Support"
+      email: "qa-support@learn2code.com"
+    contactNumber:
+      - (333) 333-333
+      - (333) 333-334
+

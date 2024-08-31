@@ -1,0 +1,6 @@
+#Custom Properties
+cards-service:
+  build:
+    version: "1.0.0-Dev"
+  support-info:
+    message: "Welcome to Cards service related dev environment APIs"

@@ -1,0 +1,12 @@
+#Custom Properties
+cards-service:
+  build:
+    version: "1.0.0-STG"
+  support-info:
+    message: "Welcome to Cards service related STG environment APIs"
+    contactPersonDetails:
+      name: "Cards Service - QA Support"
+      email: "qa-support@learn2code.com"
+    contactNumber:
+      - (333) 333-333
+      - (333) 333-334

@@ -1,0 +1,6 @@
+#Custom Properties
+loans-service:
+  build:
+    version: "1.0.0-Dev"
+  support-info:
+    message: "Welcome to Loans account related dev environment APIs"

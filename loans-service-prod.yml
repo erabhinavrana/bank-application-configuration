@@ -1,0 +1,12 @@
+#Custom Properties
+loans-service:
+  build:
+    version: "1.0.0"
+  support-info:
+    message: "Welcome to Loans service related Production environment APIs"
+    contactPersonDetails:
+      name: "Learn2Code Production Support"
+      email: "{cipher}c78214b81e8752e68dc590a6bfd91bf5628db5eb33bdb75bcf65ac2346bf3e1668ab3b0567c4100474f576e5bce98d9f"
+    contactNumber:
+      - (333) 333-333
+      - (333) 333-334

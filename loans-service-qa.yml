@@ -1,0 +1,12 @@
+#Custom Properties
+loans-service:
+  build:
+    version: "1.0.0-STG"
+  support-info:
+    message: "Welcome to Loans account related STG environment APIs"
+    contactPersonDetails:
+      name: "Loans Service - QA Support"
+      email: "qa-support@learn2code.com"
+    contactNumber:
+      - (333) 333-333
+      - (333) 333-334

@@ -1,0 +1,13 @@
+#Custom Properties
+accounts-service:
+  build:
+    version: "1.0.0-SNAPSHOT"
+  support-info:
+    message: "Welcome to accounts service related local APIs"
+    contactPersonDetails:
+      name: "Abhinav Rana - Developer"
+      email: "rana@learn2code.com"
+    contactNumber:
+      - (111) 111-111
+      - (111) 111-112
+

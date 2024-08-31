@@ -1,0 +1,6 @@
+#Custom Properties
+accounts-service:
+  build:
+    version: "1.0.0-Dev"
+  support-info:
+    message: "Welcome to accounts service related Dev environment APIs"

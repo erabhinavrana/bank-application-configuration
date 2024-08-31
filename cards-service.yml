@@ -1,0 +1,12 @@
+#Custom Properties
+cards-service:
+  build:
+    version: "1.0.0-SNAPSHOT"
+  support-info:
+    message: "Welcome to Cards service related local environment APIs"
+    contactPersonDetails:
+      name: "Abhinav Rana - Developer"
+      email: "rana@learn2code.com"
+    contactNumber:
+      - (111) 111-111
+      - (111) 111-112
